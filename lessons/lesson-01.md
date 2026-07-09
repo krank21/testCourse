@@ -1,5 +1,5 @@
 ---
-title: Hello from Git
+title: Hello from Git 2
 ---
 
 ::: text
